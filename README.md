@@ -78,10 +78,12 @@ int main() {
 }
 ```
 
-# OUTPUT
 
+
+# OUTPUT
 <img width="815" height="484" alt="Screenshot 2025-09-15 112726" src="https://github.com/user-attachments/assets/a845ea60-d739-4b50-82ca-dfb4d45cc714" />
-<img width="914" height="478" alt="Screenshot 2025-09-15 112415" src="https://github.com/user-attachments/assets/13aa2ad5-da2e-495a-b1e3-e9c3c3e64f61" />
+<img width="845" height="471" alt="image" src="https://github.com/user-attachments/assets/6695dc72-fa61-4686-a283-5258bcb38e31" />
+
 
 
 # RESULT
